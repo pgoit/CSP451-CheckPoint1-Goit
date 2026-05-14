@@ -47,3 +47,10 @@ git log --oneline
 ## License
 This project is created for educational purposes as part of CSP451 at Seneca College.
 Copyright (c) 2026 Prince Goit
+
+## Project Structure
+
+- `index.html` - Main landing page
+- `style.css` - Stylesheet
+- `script.js` - JavaScript file
+- `.gitignore` - Git ignore rules
